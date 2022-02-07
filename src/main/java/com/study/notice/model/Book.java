@@ -23,7 +23,7 @@ public class Book {
     @ManyToOne
     @JoinColumn( name = "author_id" )
     @JsonManagedReference
-    private Atuhor atuhor;
+    private Author author;
 
     @JsonBackReference
     @OneToMany( mappedBy = "book", fetch = FetchType.LAZY, cascade = CascadeType.ALL )
