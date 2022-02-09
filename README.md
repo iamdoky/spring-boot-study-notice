@@ -12,14 +12,6 @@
     spring-boot : 2.6.3
     gradle : 7.3.3
 
-
-### 스크립트
-    CREATE DATABASE NOTICE;
-
-    CREATE TABLE NOTICE (
-        
-    );    
-
 ### JPA
     save(): 레코드 저장
     findOne(): PK로 레코드 한 건 찾기
