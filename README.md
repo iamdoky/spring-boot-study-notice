@@ -2,6 +2,7 @@
 
 ## 참고사이트
     https://covenant.tistory.com/243?category=730169
+    https://github.com/KoEonYack/Tistory-Covenant-Code/tree/main/spring-boot-mysql
     https://javatodev.com/spring-boot-mysql/
     https://covenant.tistory.com/241
     https://docs.spring.io/spring-data/jpa/docs/1.10.1.RELEASE/reference/html/#jpa.sample-app.finders.strategies
